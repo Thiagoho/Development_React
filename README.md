@@ -2,7 +2,7 @@
 <p>Este projeto integra uma API construída com Spring Boot e uma interface frontend desenvolvida em React. Ele aborda a criação e estrutura de um sistema completo,
 com foco em funcionalidades CRUD(CREATE,READ,UPDATE,DELETE), resolução de problemas de CORS, e implementação de componentes React utilizando Hooks.</p>
 <h3>Tópicos Abordados</h3>
-<h5>Backend(Spring Boot)</h5>🚲<p>
+<h2>Backend(Spring Boot):</h2>🚲<p>
 💻 Introdução: Breve explicação sobre o propósito do projeto e tecnologias utilizadas.</br>
 📄 Criando projeto Spring Boot: Inicialização do projeto utilizando o Spring Initializar.</br>
 📄 Gerando tabela: Configuração e mapeamento de entidades no banco de dados.</br>
@@ -11,7 +11,7 @@ com foco em funcionalidades CRUD(CREATE,READ,UPDATE,DELETE), resolução de prob
 📄 Criando serviços: Criação dos serviços que contêm a lógica da aplicação.</br>
 📄 Realizando requisições -GET, POST e DELETE: Implementação das requisições REST no backend.</br>
 📄 Resolvendo o problema de CORS: configuração para permitir requisições de diferentes domínios.</br>
-<h2>Frontend React</h2>🚴‍♂️<p>
+<h2>Frontend React:</h2>🚴‍♂️<p>
 🖥️ Criando projeto React: Configuração inicial do projeto React Usando o Create React App.</br>
 🖥️ Criando os componentes: Desenvolvimento dos componentes reutilizáveis da aplicação.</br>
 🖥️ Utilizando Hooks: Uso de Hooks com useState e useEffect para gerenciar estado e ciclo de vida dos componentes.</br>
